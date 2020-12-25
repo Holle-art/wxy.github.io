@@ -38,7 +38,8 @@ html p {
     text-align: center;
 }
 .content strong {
-    font-size: 20px;
+    font-style:italic;
+    font-size: 25px;
     letter-spacing: 0;
     line-height: 14px;
     text-shadow: initial;
